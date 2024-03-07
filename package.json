@@ -2,7 +2,8 @@
   "dependencies": {
     "@influxdata/influxdb-client": "^1.33.2",
     "dotenv": "^16.4.5",
-    "mqtt": "^5.3.6"
+    "mqtt": "^5.3.6",
+    "typescript": "^5.4.2"
   },
   "devDependencies": {
     "@types/node": "^20.11.25"
